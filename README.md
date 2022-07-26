@@ -1,1 +1,1 @@
-# Pyhthon-Basics
+# Python-Basics
